@@ -12,6 +12,7 @@
 		A084A08C1FC9A1FD001B72E3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A084A08A1FC9A1FD001B72E3 /* Main.storyboard */; };
 		A084A08E1FC9A1FD001B72E3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A084A08D1FC9A1FD001B72E3 /* Assets.xcassets */; };
 		A084A0911FC9A1FD001B72E3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A084A08F1FC9A1FD001B72E3 /* LaunchScreen.storyboard */; };
+		A084A0991FC9A79C001B72E3 /* PhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A084A0981FC9A79C001B72E3 /* PhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A084A08D1FC9A1FD001B72E3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A084A0901FC9A1FD001B72E3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A084A0921FC9A1FD001B72E3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A084A0981FC9A79C001B72E3 /* PhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				A084A0861FC9A1FD001B72E3 /* AppDelegate.swift */,
+				A084A0981FC9A79C001B72E3 /* PhotoViewController.swift */,
 				A084A0881FC9A1FD001B72E3 /* ViewController.swift */,
 				A084A08A1FC9A1FD001B72E3 /* Main.storyboard */,
 				A084A08D1FC9A1FD001B72E3 /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			files = (
 				A084A0891FC9A1FD001B72E3 /* ViewController.swift in Sources */,
 				A084A0871FC9A1FD001B72E3 /* AppDelegate.swift in Sources */,
+				A084A0991FC9A79C001B72E3 /* PhotoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
